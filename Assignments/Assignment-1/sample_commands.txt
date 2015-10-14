@@ -1,0 +1,14 @@
+a) 'echo' prints out what it is given (e.g. 'hello world') into the terminal,
+b) using curly brackets with echo ('{' and '}') makes it take elements from inside each set of brackets
+one at a time and combine them to make text
+
+c) 'date' prints out the current date and time in the terminal
+
+d) 'whoami' prints out the curren user in the terminal
+
+e) 'cal' gives you a calendar of whatever year the command is given, or the month and year it is given
+f) in the case of September 1752, it skips the 3 to 13, since that happened in real life in that year
+
+g) 'bc -l' allows the user to write code in a different programming language, using math
+
+h) the sum of 5 and 4 is printed out (9)
